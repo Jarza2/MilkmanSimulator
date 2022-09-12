@@ -1,4 +1,3 @@
-#You need to pip/pip3 import pygame, screeninfo
 from operator import contains
 import pygame, sys, shelve
 from screeninfo import *
